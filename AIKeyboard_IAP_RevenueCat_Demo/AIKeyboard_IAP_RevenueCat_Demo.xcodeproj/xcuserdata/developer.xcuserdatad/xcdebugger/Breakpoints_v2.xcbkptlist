@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5FCF8FA9-E895-4EB0-B11D-C14681AD8377"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7FAA3A0-70B3-4DDB-B8DE-B4210F757F67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AIKeyboard_IAP_RevenueCat_Demo/Controllers/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "getSubscriberInfo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F7FAA3A0-70B3-4DDB-B8DE-B4210F757F67 - 74647b860f32b3d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in AIKeyboard_IAP_RevenueCat_Demo.UserViewController.getSubscriberInfo() -&gt; ()"
+                  moduleName = "AIKeyboard_IAP_RevenueCat_Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer/Desktop/AIKeyboard_IAP_RevenueCat_Demo/AIKeyboard_IAP_RevenueCat_Demo/Controllers/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "720">
+               </Location>
+               <Location
+                  uuid = "F7FAA3A0-70B3-4DDB-B8DE-B4210F757F67 - 74647b860f32b3d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in AIKeyboard_IAP_RevenueCat_Demo.UserViewController.getSubscriberInfo() -&gt; ()"
+                  moduleName = "AIKeyboard_IAP_RevenueCat_Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer/Desktop/AIKeyboard_IAP_RevenueCat_Demo/AIKeyboard_IAP_RevenueCat_Demo/Controllers/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "704">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31402303-712A-48AC-A1A3-3DD63583AE40"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AIKeyboard_IAP_RevenueCat_Demo/Controllers/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "getSubscriberInfo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "31402303-712A-48AC-A1A3-3DD63583AE40 - 74647b860f32b393"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in AIKeyboard_IAP_RevenueCat_Demo.UserViewController.getSubscriberInfo() -&gt; ()"
+                  moduleName = "AIKeyboard_IAP_RevenueCat_Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer/Desktop/AIKeyboard_IAP_RevenueCat_Demo/AIKeyboard_IAP_RevenueCat_Demo/Controllers/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "31402303-712A-48AC-A1A3-3DD63583AE40 - 74647b860f32b393"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in AIKeyboard_IAP_RevenueCat_Demo.UserViewController.getSubscriberInfo() -&gt; ()"
+                  moduleName = "AIKeyboard_IAP_RevenueCat_Demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/developer/Desktop/AIKeyboard_IAP_RevenueCat_Demo/AIKeyboard_IAP_RevenueCat_Demo/Controllers/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
